@@ -8,6 +8,7 @@ module.exports = {
         primary: "#ff7a7a8f",
         secondary: {
           100: "#2a0fd3",
+          200: "#00005F",
         },
       },
       fontFamily: {
